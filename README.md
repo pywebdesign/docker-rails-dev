@@ -5,7 +5,7 @@ Install Docker, try google!
 
 1. run:
 `. setup.sh`
-1. wait...
+1. wait..., say yes, wait...
 1. then:
 `docker-compose up`
 
