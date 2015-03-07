@@ -13,6 +13,8 @@ look your new server is running on localhost:3000
 
 You can edit you rails app files in host and they will be instantly sync with your docker container running your dev server.
 
+Don't want to wait for every project to install the same gems? Copy paste the vendor/bundle from a previous installation.
+
 ##Customize
 You can easily switch to postgis by changing line 8 in fig.yml to:
 `image: "pywebdesign/postgis"`
