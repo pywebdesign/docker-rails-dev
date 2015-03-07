@@ -6,10 +6,12 @@ Install Docker and docker-compose, try google!
 1. run:
 `. setup.sh`
 1. wait..., say yes, wait...
-1. then:
+1. then start the dev server:
 `docker-compose up`
 
 look your new server is running on localhost:3000
+
+You can edit you rails app files in host and they will be instantly sync with your docker container running your dev server.
 
 ##customize
 You can easily switch to postgis by changing line 8 in fig.yml to:
