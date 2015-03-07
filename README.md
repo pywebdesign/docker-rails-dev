@@ -1,7 +1,7 @@
 #Simple Rails dev env with postgresql and postgis
 
 ##Usage
-Install Docker, try google!
+Install Docker and docker-compose, try google!
 
 1. run:
 `. setup.sh`
