@@ -12,7 +12,7 @@ Install Docker, try google!
 look your new server is running on localhost:3000
 
 ##customize
-You can easyly add postgis by changing line 8 in fig.yml to:
+You can easily switch to postgis by changing line 8 in fig.yml to:
 `image: "pywebdesign/postgis"`
 
 Be sure to also change line 2 in database.setup.yml file to:
