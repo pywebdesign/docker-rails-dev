@@ -1,3 +1,4 @@
+#!/bin/bash
 echo $USER
 sudo chown -R $USER app*
 sudo chown -R $USER config*
