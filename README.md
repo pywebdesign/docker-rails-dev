@@ -28,4 +28,4 @@ If you want to run rake or rails command like `rails generate model cafe...` you
 `docker compose run web rake db:migrate`
 
 ### Generated files
-generated files wont be yours, just run `. unlock.sh` to get ownership after generating them!
+Generated files wont be yours (for exemple, with rails g ...), just run `. unlock.sh` to get ownership after generating them!
